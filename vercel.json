@@ -1,6 +1,6 @@
 {
     "redirects": [
-      { "source": "/server.js", "destination": "/" }
+      { "source": "/about", "destination": "/server.js" }
     ]
   }
   
